@@ -1,4 +1,5 @@
 from loss import *
+import numpy as np
 
 class NeuralNetwork:
     def __init__(self, layers, alpha, epochs):

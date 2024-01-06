@@ -1,6 +1,4 @@
-import csv
 import numpy as np
-import matplotlib.pyplot as plt
 
 from utils import load_data, show_image 
 from loss import *
